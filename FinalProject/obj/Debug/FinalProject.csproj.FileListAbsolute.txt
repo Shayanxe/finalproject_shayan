@@ -1,0 +1,7 @@
+E:\Workspace\finalproject\Solution1\FinalProject\bin\Debug\FinalProject.exe
+E:\Workspace\finalproject\Solution1\FinalProject\bin\Debug\FinalProject.pdb
+E:\Workspace\finalproject\Solution1\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+E:\Workspace\finalproject\Solution1\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+E:\Workspace\finalproject\Solution1\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+E:\Workspace\finalproject\Solution1\FinalProject\obj\Debug\FinalProject.exe
+E:\Workspace\finalproject\Solution1\FinalProject\obj\Debug\FinalProject.pdb
